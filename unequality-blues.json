@@ -1,0 +1,45 @@
+{
+    "title": "Inequality Blues",
+    "verses": [
+      {
+        "id": 1,
+        "lines": [
+          "Broke bedsprings",
+          "Pocket full of holes",
+          "Rich man's got diamonds",
+          "I got raggedy old clothes",
+          "In this world of injustice",
+          "Are we meant to cope?",
+          "The poor keep getting poorer",
+          "While the rich keep reaching new highs"
+        ]
+      },
+      {
+        "id": 2,
+        "lines": [
+          "Sittin' on the corner",
+          "Hoping for some change",
+          "But the rich just walk on by",
+          "They ain't feeling the pain",
+          "The gap keeps getting wider",
+          "Can't you see?",
+          "It's a cruel and twisted game they play",
+          "It's not right",
+          "It's not fair to me"
+        ]
+      },
+      {
+        "id": 3,
+        "lines": [
+          "Inequality blues",
+          "It's the song we sing",
+          "Burnin' like fire",
+          "It's a painful sting",
+          "But we won't give up",
+          "We won't back down",
+          "We'll rise up together",
+          "Show 'em we won't be kept on the ground"
+        ]
+      }
+    ]
+  }
